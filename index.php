@@ -109,8 +109,7 @@ include 'todoconnect.php';
 
 ?>
 
-<!-- in a php file (any file with php extension) , html code can be present
-but in a html file, php code cannot be present -->
+
     </ul>
 
 
